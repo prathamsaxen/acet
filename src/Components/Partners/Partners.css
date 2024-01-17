@@ -1,0 +1,21 @@
+.Partners{
+    border-bottom: 5px solid #f4a024;
+    background-color: #294a70;
+    padding: 20px;
+}
+.Partners h2{
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+}
+.slide{
+    padding: 20px;
+    padding-bottom: 10px;
+}
+.image img{
+    width: auto;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

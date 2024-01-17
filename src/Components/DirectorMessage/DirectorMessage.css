@@ -1,0 +1,44 @@
+.DirectorMessage h2{
+    text-align: center;
+    margin-top: 20px;
+    color:#294a70;
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.mainDirectorMessage{
+    width: 80%;
+    margin: auto;
+    height: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+.textDirectorMessage{
+    background-color: #f4a024;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    color:  white;
+    font-size: 22px;
+    font-weight: 500;
+    border-radius: 8px;
+    flex-direction: column;
+    gap: 15px;
+    padding-bottom: 0;
+}
+.textDirectorMessage p:nth-child(2){
+    /* border: 2px solid red; */
+    width: 100%;
+    text-align: right;
+}
+.imageDirectorMessage{
+    border-radius: 8px;
+}
+.imageDirectorMessage img{
+    border-radius: 8px;
+    margin-left: 5px;
+}

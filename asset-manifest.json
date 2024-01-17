@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/acet/static/css/main.ba2092c5.css",
+    "main.js": "/acet/static/js/main.b8235d9d.js",
+    "static/js/787.8b864776.chunk.js": "/acet/static/js/787.8b864776.chunk.js",
+    "static/media/3.png": "/acet/static/media/3.73eccad10f908f2e522f.png",
+    "static/media/2.png": "/acet/static/media/2.85cdbb8d66456a844275.png",
+    "static/media/logo_acet.jpg": "/acet/static/media/logo_acet.0a4ae4b27b20d837960f.jpg",
+    "static/media/dm.png": "/acet/static/media/dm.54647579ee665f402556.png",
+    "static/media/1.jpg": "/acet/static/media/1.5a2a7efe0418704bece6.jpg",
+    "static/media/logo2.jpeg": "/acet/static/media/logo2.4c3b1716a1452dcbdb2c.jpeg",
+    "static/media/tcs.svg": "/acet/static/media/tcs.8b9b07f2df4f8f0d721762363e71d143.svg",
+    "static/media/hdfc.svg": "/acet/static/media/hdfc.aed4e307f455715634ae561afd763ca3.svg",
+    "static/media/collabera.svg": "/acet/static/media/collabera.30c2c1962b33aec69318e78b18795621.svg",
+    "static/media/htc.webp": "/acet/static/media/htc.d18859e05598357cbd49.webp",
+    "static/media/hcl.svg": "/acet/static/media/hcl.baf8bb2451f30690b5611420e02a7bef.svg",
+    "static/media/slick.svg": "/acet/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/acet/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/acet/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/acet/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/acet/index.html",
+    "main.ba2092c5.css.map": "/acet/static/css/main.ba2092c5.css.map",
+    "main.b8235d9d.js.map": "/acet/static/js/main.b8235d9d.js.map",
+    "787.8b864776.chunk.js.map": "/acet/static/js/787.8b864776.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba2092c5.css",
+    "static/js/main.b8235d9d.js"
+  ]
+}
